@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ARNNAB CHAKRA</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="110px" width="110px">
+![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 - 🌱 I’m currently learning **Machine Learning Technology, HTML, CSS, and JavaScript**
 
