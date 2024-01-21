@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm ARNNAB CHAKRA</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="![68747470733a2f2f616d70726f6e2e65752f77702d636f6e74656e742f75706c6f6164732f323031392f30312f636f64652d646576656c6f7065722e676966](https://github.com/Arnnabchakra/Arnnabchakra/assets/157284011/e58319aa-75d2-4028-9284-553314b8db69)
-">
+<img align="right" alt="Coding" width="400" src="https://github.com/tomchen/my-avatar/raw/master/tomchen.gif" alt="Tom Chen's animated GIF avatar" title="Tom Chen's animated GIF avatar" height="110px" width="110px">
 
 - 🌱 I’m currently learning **Machine Learning Technology, HTML, CSS, and JavaScript**
 
