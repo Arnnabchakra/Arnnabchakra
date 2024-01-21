@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ARNNAB CHAKRA</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="[https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F588181932%2Fe36ec678-7984-4cdd-8e4c-a3932772ff8e&tbnid=kfpqCuXmfeFi9M&vet=12ahUKEwiM9YSWjO-DAxUiu2MGHVLlDYcQMygiegUIARCdAQ..i&imgrefurl=https%3A%2F%2Fgithub.com%2Ftopics%2Fgithub-profile%3Fl%3Dmarkdown&docid=oXuxIRyl4ifv2M&w=1600&h=700&q=github%20profile%20banner&ved=2ahUKEwiM9YSWjO-DAxUiu2MGHVLlDYcQMygiegUIARCdAQ)">
 
 - 🌱 I’m currently learning **Machine Learning Technology, HTML, CSS, and JavaScript**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **chakraarnnab@gmail.com**
 
-- 📄 Know about my experiences [Skilled in 3D animation](Skilled in 3D animation)
+- 📄 Know about my experiences [Skilled in 3D animation](3D animation)
 
 - ⚡ Fun fact **I think I am funny😀**
 
