@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ARNNAB CHAKRA</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align= "right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAniketkushwaha80%2FAniketkushwaha80&psig=AOvVaw3IUPXyLfh4-yt-w1LfUDem&ust=1705934490231000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPj8s7mT74MDFQAAAAAdAAAAABAD">
+![mario](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 - 🌱 I’m currently learning **Machine Learning Technology, HTML, CSS, and JavaScript**
 
