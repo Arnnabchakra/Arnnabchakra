@@ -25,7 +25,7 @@
     width="180"
     height="180"
     clip-path="url(#circleClip)"
-    href="https://github.com/Arnnabchakra/Arnnabchakra/blob/main/profile.jpg"
+    href="profile.jpg"
   />
 
   <!-- White Border -->
@@ -47,3 +47,4 @@
   </text>
 
 </svg>
+
