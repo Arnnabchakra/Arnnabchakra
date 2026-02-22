@@ -1,6 +1,4 @@
 ![Banner](https://raw.githubusercontent.com/arnnabchakra/arnnabchakra/main/banner.svg)
-
-![logo](https://github.com/Arnnabchakra/Arnnabchakra/blob/main/GITHUB%20BANNER.png)
 <h1 align="center">Hi 👋, I'm ARNNAB CHAKRA</h1>
 <h3 align="center">A passionate Engineer from India</h3>
 
