@@ -25,6 +25,25 @@
   <!-- Background -->
   <rect width="1200" height="300" fill="url(#bg)" />
 
+   <!-- Floating Bubbles (BACKGROUND) -->
+  <g opacity="0.35" fill="#7dd3fc">
+    <circle cx="200" cy="350" r="25">
+      <animate attributeName="cy" from="350" to="-50" dur="18s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="360" r="18">
+      <animate attributeName="cy" from="360" to="-40" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="700" cy="380" r="30">
+      <animate attributeName="cy" from="380" to="-60" dur="22s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="900" cy="340" r="20">
+      <animate attributeName="cy" from="340" to="-40" dur="16s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1050" cy="390" r="28">
+      <animate attributeName="cy" from="390" to="-70" dur="20s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
   <!-- Animation sweep -->
   <rect x="-1200" y="0" width="1200" height="300" fill="url(#shine)">
     <animateTransform
@@ -65,3 +84,4 @@
   </text>
 
 </svg>
+
