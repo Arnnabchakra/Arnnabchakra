@@ -26,7 +26,7 @@
     width="180"
     height="180"
     clip-path="url(#circleClip)"
-    xlink:href="https://github.com/Arnnabchakra/Arnnabchakra/blob/main/profile.jpg"
+    xlink:href="https://raw.githubusercontent.com/Arnnabchakra/Arnnabchakra/main/profile.jpg"
   />
 
   <circle cx="150" cy="150" r="92" fill="none" stroke="white" stroke-width="4"/>
@@ -43,3 +43,4 @@
 
 
 </svg>
+
