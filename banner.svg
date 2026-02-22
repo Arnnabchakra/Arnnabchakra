@@ -1,8 +1,8 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300"
-     xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink">
+     xmlns="http://www.w3.org/2000/svg">
 
   <defs>
+    <!-- Animated Background -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#0f2027">
         <animate attributeName="offset" values="0;1;0" dur="8s" repeatCount="indefinite"/>
@@ -13,35 +13,38 @@
       </stop>
     </linearGradient>
 
+    <!-- Circular Photo Mask -->
     <clipPath id="circleClip">
       <circle cx="150" cy="150" r="90"/>
     </clipPath>
   </defs>
 
+  <!-- Background -->
   <rect width="1200" height="300" fill="url(#bg)" />
 
+  <!-- Profile Photo -->
   <image
-  x="60"
-  y="60"
-  width="180"
-  height="180"
-  clip-path="url(#circleClip)"
-  href="https://raw.githubusercontent.com/Arnnabchakra/Arnnabchakra/main/profile.jpg"
-/>
+    x="60"
+    y="60"
+    width="180"
+    height="180"
+    clip-path="url(#circleClip)"
+    href="https://raw.githubusercontent.com/Arnnabchakra/Arnnabchakra/main/profile.jpg"
+  />
 
+  <!-- Photo Border -->
   <circle cx="150" cy="150" r="92" fill="none" stroke="white" stroke-width="4"/>
 
+  <!-- Main Text -->
   <text x="420" y="135" fill="white" font-size="46"
         font-family="Segoe UI, sans-serif" font-weight="700">
-    Hi, I'm Arnnab Chakra👋
+    Hi, I'm Arnnab Chakra 👋
   </text>
 
+  <!-- Sub Text -->
   <text x="420" y="180" fill="#d1e8ff" font-size="26"
         font-family="Segoe UI, sans-serif">
     Data Scientist | ML Engineer | AI Explorer
   </text>
 
-
 </svg>
-
-
