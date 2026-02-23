@@ -1,6 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/arnnabchakra/arnnabchakra/main/banner.svg)
-<h1 align="center">Hi 👋, I'm ARNNAB CHAKRA</h1>
-<h3 align="center">A passionate Engineer from India</h3>
+<h1 align="center">A passionate Engineer from India</h1>
+
 
  
 🔍 **Aspiring Data Scientist Engineer**  
