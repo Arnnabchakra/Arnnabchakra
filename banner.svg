@@ -18,7 +18,7 @@
 
     <!-- Circular photo mask -->
     <clipPath id="circleClip">
-      <circle cx="150" cy="150" r="90"/>
+      <circle cx="200" cy="150" r="90"/>
     </clipPath>
   </defs>
 
@@ -57,7 +57,7 @@
 
   <!-- 🔥 PROFILE IMAGE (PASTE BASE64 BELOW) -->
   <image
-    x="60"
+    x="110"
     y="60"
     width="180"
     height="180"
@@ -66,7 +66,7 @@
   />
 
   <!-- Photo border -->
-  <circle cx="150" cy="150" r="92"
+  <circle cx="200" cy="150" r="92"
           fill="none" stroke="white" stroke-width="4"/>
 
   <!-- Text -->
@@ -84,4 +84,5 @@
   </text>
 
 </svg>
+
 
