@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://arnnab-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-FF4B2B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+      <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
