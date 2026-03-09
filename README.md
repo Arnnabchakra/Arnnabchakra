@@ -11,6 +11,15 @@
 📁 **Projects > Theory**  
 ⭐ Star if you like my work!
 
+---
+
+<h3 align="center">🌐 Check Out My Portfolio</h3>
+
+<p align="center">
+  <a href="https://arnnab-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-FF4B2B?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnnab-chakra-server/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chakraarnnab@gmail.com) 
