@@ -3,12 +3,13 @@
 
 
  
-🔍 **Aspiring Data Scientist Engineer**  
-🤖 **Exploring Machine Learning & AI**  
-📊 Love working with **data, models, and dashboards**  
-🧠 Curious mind | Problem solver | Lifelong learner  
+🚀 **Generative AI & AI/ML Engineer**  
+🤖 Building **LLM-powered applications & intelligent systems**  
+🧠 Skilled in **Machine Learning, Deep Learning, NLP & Generative AI**  
+📊 Strong in **AI development — from data to deployment**  
 
-📁 **Projects > Theory**  
+⚡ Passionate about creating **real-world AI solutions & automation systems**  
+📁 **Projects > Theory | Systems > Concepts**  
 ⭐ Star if you like my work!
 
 ---
