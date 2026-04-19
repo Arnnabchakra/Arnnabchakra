@@ -16,7 +16,7 @@
 <h3 align="center">🌐 Check Out My Portfolio</h3>
 
 <p align="center">
-  <a href="https://arnnab-portfolio.netlify.app/" target="_blank">
+  <a href="https://arnnabchakra-portfolio.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
